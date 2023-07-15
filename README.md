@@ -40,7 +40,7 @@ E-Learn is a beautiful education app for Android. It is built with Dart on top o
 
 If you like what we do, and would want to help us continue doing it, consider sponsoring this project.
 
-<a href="https://www.buymeacoffee.com/Christopher-Chilengwe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height=51 width=217></a>
+<a href="https://www.buymeacoffee.com/christopherchilengwe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height=51 width=217></a>
 
 ## Dependencies
 
